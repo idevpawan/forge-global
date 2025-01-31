@@ -1,0 +1,178 @@
+export const companies = [
+  {
+    company: "Epic Games",
+    marketPrice: "$445",
+    "est._valuation": "$16.7B",
+    vs_last_round: "-26.00%",
+    "performance (3M)": "+1.00%",
+    last_primary_round: {
+      amount: "$600",
+      valuation: "$22.5B",
+      date: "2024-09-30",
+    },
+    last_trade: {
+      amount: "$445",
+      valuation: "$16.7B",
+      date: "2025-01-11",
+    },
+    recent_trading_history: {
+      amount: "$3.4M",
+      valuation: "3 Trades",
+      date: "$5.2M bid vol",
+    },
+  },
+  {
+    company: "Cohere",
+    marketPrice: "$188.46",
+    estimated_valuation: "$5.0B",
+    vs_last_round: "-10.00%",
+    performance_3M: "+13.00%",
+    last_primary_round: {
+      amount: "$209.4",
+      valuation: "$5.5B",
+      date: "2024-12-15",
+    },
+    last_trade: {
+      amount: "$188.46",
+      valuation: "$5.0B",
+      date: "2025-01-10",
+    },
+    recent_trading_history: {
+      amount: "$1.0M",
+      valuation: "2 Trades",
+      date: "$5.0M bid vol",
+    },
+  },
+  {
+    company: "SpaceX",
+    marketPrice: "$194.5",
+    estimated_valuation: "$368.0B",
+    vs_last_round: "+5.00%",
+    performance_3M: "-22.00%",
+    last_primary_round: {
+      amount: "$185",
+      valuation: "$350.0B",
+      date: "2024-12-10",
+    },
+    last_trade: {
+      amount: "$194.5",
+      valuation: "$368.0B",
+      date: "2025-01-21",
+    },
+    recent_trading_history: {
+      amount: "$7.8M",
+      valuation: "5 Trades",
+      date: "$12.5M bid vol",
+    },
+  },
+  {
+    company: "Flutterwave",
+    marketPrice: "$35",
+    estimated_valuation: "$2.0B",
+    vs_last_round: "-33.00%",
+    performance_3M: "-15.00%",
+    last_primary_round: {
+      amount: "$52.23",
+      valuation: "$3.0B",
+      date: "2024-10-15",
+    },
+    last_trade: {
+      amount: "$35",
+      valuation: "$2.0B",
+      date: "2025-01-21",
+    },
+    recent_trading_history: {
+      amount: "$1.8M",
+      valuation: "3 Trades",
+      date: "$2.1M bid vol",
+    },
+  },
+  {
+    company: "Flexport",
+    marketPrice: "$3.75",
+    estimated_valuation: "$2.1B",
+    vs_last_round: "-73.00%",
+    performance_3M: "+77.00%",
+    last_primary_round: {
+      amount: "$14",
+      valuation: "$8.0B",
+      date: "2022-03-28",
+    },
+    last_trade: {
+      amount: "$3.75",
+      valuation: "$2.1B",
+      date: "2025-01-21",
+    },
+    recent_trading_history: {
+      amount: "$360.0K",
+      valuation: "2 Trades",
+      date: "$1.1M bid vol",
+    },
+  },
+  {
+    company: "Figure AI",
+    marketPrice: "$0",
+    estimated_valuation: "Unpriced",
+    vs_last_round: "0.00%",
+    performance_3M: "0.00%",
+    last_primary_round: {
+      amount: "$0",
+      valuation: "Unpriced",
+      date: "2025-01-21",
+    },
+    last_trade: {
+      amount: "$0",
+      valuation: "Unpriced",
+      date: "2025-01-21",
+    },
+    recent_trading_history: {
+      amount: "$3.0M",
+      valuation: "0 Trades",
+      date: "$10.0M bid vol",
+    },
+  },
+  {
+    company: "Klarna",
+    marketPrice: "$480",
+    estimated_valuation: "$14.6B",
+    vs_last_round: "+1.00%",
+    performance_3M: "+5.00%",
+    last_primary_round: {
+      amount: "$475.25",
+      valuation: "$14.4B",
+      date: "2024-12-20",
+    },
+    last_trade: {
+      amount: "$480",
+      valuation: "$14.6B",
+      date: "2025-01-21",
+    },
+    recent_trading_history: {
+      amount: "$1.9M",
+      valuation: "2 Trades",
+      date: "$3.5M bid vol",
+    },
+  },
+  {
+    company: "Anthropic",
+    marketPrice: "$38",
+    estimated_valuation: "$24.5B",
+    vs_last_round: "-25.00%",
+    performance_3M: "+15.00%",
+    last_primary_round: {
+      amount: "$50.67",
+      valuation: "$32.7B",
+      date: "2024-11-15",
+    },
+    last_trade: {
+      amount: "$38",
+      valuation: "$24.5B",
+      date: "2025-01-21",
+    },
+    recent_trading_history: {
+      amount: "$3.0M",
+      valuation: "4 Trades",
+      date: "$20.0M bid vol",
+    },
+  },
+];
