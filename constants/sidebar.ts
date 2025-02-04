@@ -4,7 +4,7 @@ import {
   Globe,
   LayoutDashboard,
   Newspaper,
-  // Terminal,
+  Terminal,
 } from "lucide-react";
 
 export const sidebarItems = [
@@ -13,5 +13,5 @@ export const sidebarItems = [
   { name: "Markets", href: "/markets", icon: Globe },
   { name: "Trades", href: "/trades", icon: ChartColumn },
   { name: "News", href: "/news", icon: Newspaper },
-  // { name: "API", href: "/api", icon: Terminal },
+  { name: "API", href: "/api", icon: Terminal },
 ];

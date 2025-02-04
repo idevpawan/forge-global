@@ -15,3 +15,25 @@ export type TButton = {
   children: ReactNode;
   className?: string;
 };
+
+export type TQueryParameters = {
+  caplightId: {
+    type: string;
+    idType: string;
+    example: string;
+  };
+  pitchbookId?: {
+    type: string;
+    idType: string;
+    example: string;
+  };
+};
+
+export type TApiCard = {
+  type: string;
+  name: string;
+  route: string;
+  desc: string;
+  response: string;
+  queryParameters: TQueryParameters;
+};
